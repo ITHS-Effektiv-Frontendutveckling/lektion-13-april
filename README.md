@@ -22,3 +22,8 @@ Callbacks: https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2de
 ## Videor
 
 ## Inspelningar
+Förmiddag - kursplanering: https://ithogskolan.sharepoint.com/sites/Frontendutvecklare2020/Delade%20dokument/Effektiv%20frontendutveckling/Recordings/M%C3%B6te%20i%20_Effektiv%20frontendutveckling_-20210413_092336-M%C3%B6tesinspelning.mp4?web=1
+
+Förmiddag - Intro till Node.js: https://ithogskolan.sharepoint.com/sites/Frontendutvecklare2020/Delade%20dokument/Effektiv%20frontendutveckling/Recordings/Snabbm%C3%B6te-20210413_100146-M%C3%B6tesinspelning.mp4?web=1
+
+Eftermiddag: https://ithogskolan.sharepoint.com/sites/Frontendutvecklare2020/Delade%20dokument/Effektiv%20frontendutveckling/Recordings/Snabbm%C3%B6te-20210413_131957-M%C3%B6tesinspelning.mp4?web=1
